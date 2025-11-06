@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Relations and Functions | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture1.m3u8",
+    "notes": "https://example.com/notes/relations-functions-1.pdf"
+  },
+  {
+    "title": "Relations and Functions | Lecture 2",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture2.m3u8",
+    "notes": "https://example.com/notes/relations-functions-2.pdf"
+  },
+  {
+    "title": "Inverse Trigonometric Functions | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture3.m3u8",
+    "notes": "https://example.com/notes/inverse-trigo-1.pdf"
+  },
+  {
+    "title": "Matrices | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture4.m3u8",
+    "notes": "https://example.com/notes/matrices-1.pdf"
+  },
+  {
+    "title": "Determinants | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture5.m3u8",
+    "notes": "https://example.com/notes/determinants-1.pdf"
+  },
+  {
+    "title": "Continuity and Differentiability | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture6.m3u8",
+    "notes": "https://example.com/notes/continuity-1.pdf"
+  },
+  {
+    "title": "Application of Derivatives | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture7.m3u8",
+    "notes": "https://example.com/notes/aod-1.pdf"
+  },
+  {
+    "title": "Integrals | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture8.m3u8",
+    "notes": "https://example.com/notes/integrals-1.pdf"
+  },
+  {
+    "title": "Application of Integrals | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture9.m3u8",
+    "notes": "https://example.com/notes/ao-integrals-1.pdf"
+  },
+  {
+    "title": "Differential Equations | Lecture 1",
+    "play": "https://player-harsh.netlify.app/player.html?link=https://d1.example.com/lecture10.m3u8",
+    "notes": "https://example.com/notes/diffeq-1.pdf"
+  }
+]
